@@ -4,5 +4,5 @@ Git is interesting tool
 
 Learning push conflicts
 
-Devops First Lesson
-Devops Second Lesson
+DEVOPS FIRST
+Second AWS
